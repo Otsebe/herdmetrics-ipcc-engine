@@ -15,7 +15,7 @@ This module is the scientific core of the **HerdMetrics** mobile application —
 
 ### IPCC Tier 2 Formula
 
-Enteric fermentation — the digestive process in ruminants — is the largest source of agricultural methane in Botswana, accounting for over 70% of the country's agricultural greenhouse gas emissions.
+Enteric fermentation - the digestive process in ruminants - is the largest source of agricultural methane in Botswana, accounting for over 70% of the country's agricultural greenhouse gas emissions.
 
 The engine implements **IPCC Equation 10.21** from the *2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4, Chapter 10*:
 
@@ -122,14 +122,9 @@ console.log(`Monthly saving: ${reduced.monthlySavingKgCH4} kg CH₄`);
 ## References
 
 - IPCC (2006). *2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4: Agriculture, Forestry and Other Land Use, Chapter 10: Emissions from Livestock and Manure Management.* IGES, Japan.
-- IPCC (2021). *Sixth Assessment Report (AR6) — Climate Change 2021: The Physical Science Basis.* GWP values, Chapter 7.
+- IPCC (2021). *Sixth Assessment Report (AR6) - Climate Change 2021: The Physical Science Basis.* GWP values, Chapter 7.
 - Woodward, S.L. et al. (2004). Levels of nitrate and tannin in feeds and their effects on methane production in vitro. *Australian Journal of Experimental Agriculture.*
 - Tan, H.Y. et al. (2011). Effects of condensed tannins from *Leucaena leucocephala* on methane production. *Animal Feed Science and Technology.*
 
 ---
 
-## Part of the HerdMetrics Project
-
-This engine powers the **HerdMetrics** mobile application — an Android-first React Native app built for Botswana's cattle farmers, developed as part of the Climathon Botswana climate innovation challenge.
-
-> Full application repository: [github.com/[your-username]/herdmetrics](https://github.com/[your-username]/herdmetrics)
