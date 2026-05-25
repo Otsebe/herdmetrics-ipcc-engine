@@ -7,7 +7,7 @@
 
 > A strictly-typed TypeScript engine that calculates monthly methane (CH₄) emissions from livestock herds using the internationally recognised **IPCC Tier 2 methodology**, and estimates the reduction achievable through evidence-based feed interventions such as *Moringa oleifera* supplementation.
 
-This module is the scientific core of the **HerdMetrics** mobile application — a climate tech tool designed to help Botswana's cattle farmers understand and reduce their herd's greenhouse gas footprint.
+This module is the scientific core of the **HerdMetrics** mobile application - a climate tech tool designed to help Botswana's cattle farmers understand and reduce their herd's greenhouse gas footprint.
 
 ---
 
